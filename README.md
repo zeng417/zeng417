@@ -54,10 +54,10 @@
 
 | 模块 | 实现 |
 | :--- | :--- |
-| 卡片结构 | 一篇论文 = README 速览卡 + reading-notes 精读 + translation 全文翻译 + 代码入口 |
-| 体系划分 | 00 大模型基础 + 01–15 具身智能十五大方向，每方向预留 3 篇经典论文索引位 |
-| 收录进度 | 已整理 10 篇论文，覆盖 8 个方向：多模态感知、自主学习、具身大模型、世界模型、操作、导航、强化学习自适应控制 |
-| 协作流程 | templates/ 三份模板 + scripts/add-paper.py 一键生成骨架，CONTRIBUTING.md 约定提交规范 |
+| 卡片结构 | 一篇论文 = 速览卡 + 精读笔记 + 全文翻译 + 代码入口 |
+| 体系划分 | 00 大模型基础 + 01–15 十五大方向，每方向 3 篇索引位 |
+| 收录进度 | 10 篇论文，覆盖 8 个方向（感知 / 导航 / 操作 / 世界模型等） |
+| 协作流程 | templates/ 模板 + add-paper.py 生成骨架，CONTRIBUTING 约定规范 |
 
 → [github.com/yuanjingea/paper-cards](https://github.com/yuanjingea/paper-cards)
 
