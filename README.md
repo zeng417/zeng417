@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=200&section=header&text=zeng417&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=ROS%202%20%C2%B7%20Nav2%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/zeng417">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+%E6%9B%BE%E7%85%9C%E7%BF%94.;ROS+2+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91%EF%BC%9A%E5%AF%BC%E8%88%AA+%2B+%E8%A7%86%E8%A7%89;%E8%AE%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%87%AA%E5%B7%B1%E8%B5%B0%E8%BF%87%E5%8E%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=ROS+2+Robotics+Engineer;Nav2+%7C+OpenCV+%7C+MQTT;%E8%AE%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%87%AA%E5%B7%B1%E8%B5%B0%E8%BF%87%E5%8E%BB" alt="Typing SVG" />
 </a>
 
 </div>
