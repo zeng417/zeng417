@@ -93,11 +93,7 @@
 
 ## 最近在写
 
-<!-- BLOG-POST-LIST:START -->
-- [点对点、轨道与自主导航：三种「自己走过去」到底差在哪](https://zeng417.github.io/posts/robot-navigation-modes/)
-- [基于 ROS 2 的天轶 2.5 消防巡检机器人导航模块设计与实践](https://zeng417.github.io/posts/tianyi25-fire-inspection-nav/)
-- [MQTT 协议入门：用「订阅报纸」的方式理解物联网通信](https://zeng417.github.io/posts/mqtt-protocol-intro/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [点对点、轨道与自主导航：三种「自己走过去」到底差在哪](https://zeng417.github.io/posts/robot-navigation-modes/)- [基于 ROS 2 的天轶 2.5 消防巡检机器人导航模块设计与实践](https://zeng417.github.io/posts/tianyi25-fire-inspection-nav/)- [MQTT 协议入门：用「订阅报纸」的方式理解物联网通信](https://zeng417.github.io/posts/mqtt-protocol-intro/)<!-- BLOG-POST-LIST:END -->
 
 ## 🎯 接下来
 
